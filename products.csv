@@ -1,0 +1,31 @@
+product_id,name,brand,category,price_inr,stock,rating,review_count,features,description
+LAP001,NovaBook Air 14,NovaTech,laptop,54999,12,4.4,318,14-inch FHD; Intel Core i5; 16GB RAM; 512GB SSD; 1.35kg,"Lightweight everyday laptop for students, office work, browsing, coding, and travel."
+LAP002,ForgeBook Pro 15,Forge,laptop,78999,7,4.6,205,15.6-inch 144Hz; Ryzen 7; 16GB RAM; 1TB SSD; RTX 4050,"Performance laptop for gaming, video editing, 3D work, and demanding software."
+LAP003,StudyMate 14,EduCore,laptop,36999,18,4.2,451,14-inch FHD; Intel Core i3; 8GB RAM; 512GB SSD; 10-hour battery,"Affordable laptop for classes, documents, video calls, and light programming."
+LAP004,CreatorView 16,PixelCraft,laptop,104999,4,4.7,129,16-inch 2.5K; Ryzen 9; 32GB RAM; 1TB SSD; RTX 4060,"High-resolution creator laptop for professional editing, rendering, and design."
+LAP005,FlexNote 13,NovaTech,laptop,62999,0,4.3,188,13.3-inch touchscreen; Intel Core i5; 16GB RAM; 512GB SSD; convertible,"Portable two-in-one laptop with tablet mode for notes, presentations, and travel."
+PHN001,Astra One 5G,Astra,smartphone,24999,25,4.3,912,6.5-inch AMOLED; 8GB RAM; 128GB; 5000mAh; OIS camera,"Balanced 5G phone with a bright display, dependable camera, and all-day battery."
+PHN002,PixelWave Mini,PixelWave,smartphone,32999,9,4.5,644,6.1-inch OLED; 8GB RAM; 256GB; compact body; stereo speakers,Compact premium phone for users who want one-hand use and strong photography.
+PHN003,GameBolt X,Bolt,smartphone,41999,6,4.4,507,6.7-inch 144Hz AMOLED; 12GB RAM; 256GB; vapor cooling; 6000mAh,"Gaming-focused phone with a fast display, large battery, and advanced cooling."
+PHN004,DailyGo 5G,MobiGo,smartphone,15999,32,4.1,1384,6.6-inch LCD; 6GB RAM; 128GB; 5000mAh; dual SIM,"Budget 5G smartphone for social apps, streaming, calls, and daily use."
+PHN005,PhotoMax Pro,LensLab,smartphone,67999,0,4.7,291,6.7-inch LTPO OLED; 12GB RAM; 512GB; 3x telephoto; wireless charging,"Camera-first flagship phone for portraits, travel photography, and premium use."
+AUD001,QuietPods ANC,SonicLeaf,headphones,6999,20,4.4,1058,true wireless; active noise cancellation; 30-hour battery; IPX5,"Noise-cancelling earbuds for commuting, calls, workouts, and focused listening."
+AUD002,StudioArc Wireless,AudioArc,headphones,12999,8,4.6,376,over-ear; ANC; 45-hour battery; multipoint; wired mode,"Comfortable over-ear headphones for music, remote work, flights, and long sessions."
+AUD003,BassLoop Lite,SonicLeaf,headphones,2499,35,4.1,1602,true wireless; 24-hour battery; low-latency mode; IPX4,Low-cost wireless earbuds with strong bass for casual music and mobile gaming.
+AUD004,ClearCall 500,WorkTone,headphones,4499,14,4.3,529,on-ear headset; boom mic; USB and Bluetooth; mute button,"Work headset designed for clear meetings, customer calls, and online classes."
+AUD005,RunBeat Open,MotionSound,headphones,8999,0,4.2,214,open-ear; sweat resistant; 10-hour battery; lightweight,Open-ear sports headphones that keep runners aware of their surroundings.
+TAB001,SketchTab 11,PixelCraft,tablet,38999,10,4.5,333,11-inch 2.5K; 8GB RAM; 256GB; stylus included; quad speakers,"Tablet for digital notes, drawing, entertainment, and lightweight creative work."
+TAB002,LearnPad 10,EduCore,tablet,18999,21,4.2,746,10.4-inch display; 6GB RAM; 128GB; kids mode; 7000mAh,"Affordable family tablet for study, reading, streaming, and supervised kids use."
+TAB003,ProSlate 12,NovaTech,tablet,64999,5,4.6,187,12.4-inch AMOLED; 12GB RAM; 256GB; keyboard support; stylus,"Premium productivity tablet for multitasking, design, presentations, and media."
+MON001,ViewSharp 24,ClearView,monitor,11999,16,4.3,611,24-inch IPS; 1080p; 100Hz; HDMI; eye-care mode,"Affordable office monitor for documents, browsing, coding, and study desks."
+MON002,ColorFrame 27Q,PixelCraft,monitor,25999,7,4.6,284,27-inch IPS; 1440p; 99% sRGB; USB-C; height adjustable,"Sharp color-accurate monitor for design, editing, productivity, and laptops."
+MON003,ArenaCurve 32,Forge,monitor,34999,3,4.5,198,32-inch curved; 1440p; 165Hz; adaptive sync; HDR,"Immersive high-refresh gaming monitor for racing, action games, and multitasking."
+MON004,CreatorPanel 27 4K,ClearView,monitor,42999,0,4.7,143,27-inch IPS; 4K; 98% DCI-P3; USB-C 90W; factory calibrated,"Professional 4K monitor for color-sensitive photo, video, and design work."
+KEY001,TypeLite K2,KeyNest,keyboard,2999,28,4.2,853,compact wireless; Bluetooth; multi-device; quiet keys,"Compact quiet keyboard for study, office work, tablets, and small desks."
+KEY002,MechForge TKL,Forge,keyboard,6499,11,4.5,496,mechanical; hot-swappable; RGB; tenkeyless; wired,"Responsive mechanical keyboard for gaming, typing, and desk customization."
+MOU001,GlidePro MX,WorkTone,mouse,3999,19,4.6,1021,ergonomic wireless; silent clicks; multi-device; USB-C charging,Comfortable productivity mouse for long office sessions and multiple computers.
+MOU002,AimBolt 68,Bolt,mouse,5499,13,4.4,674,68g gaming mouse; 26000 DPI; wireless; programmable buttons,Lightweight wireless gaming mouse for fast competitive play and precise aiming.
+SPK001,RoomBeat Mini,SonicLeaf,speaker,3499,24,4.3,1175,portable Bluetooth; 12-hour battery; IPX7; stereo pairing,"Water-resistant portable speaker for rooms, picnics, travel, and casual parties."
+SPK002,DeskSound Bar,AudioArc,speaker,7999,6,4.4,389,desktop soundbar; USB-C; Bluetooth; dialogue mode; subwoofer out,"Compact soundbar that improves laptop, monitor, movie, and meeting audio."
+WAT001,FitPulse 2,MotionSound,smartwatch,5999,22,4.2,1307,AMOLED; GPS; heart-rate; sleep tracking; 7-day battery,"Fitness smartwatch for walking, running, sleep insights, and notifications."
+WAT002,TrailWatch Pro,Astra,smartwatch,14999,4,4.5,342,dual-band GPS; offline maps; altimeter; 10-day battery; 5ATM,"Rugged outdoor smartwatch for hiking, running, navigation, and training."
