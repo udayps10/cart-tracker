@@ -7,4 +7,5 @@ chroma_db/
 *.sqlite
 *.sqlite3
 .pytest_cache/
+.ipynb_checkpoints/
 

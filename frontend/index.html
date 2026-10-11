@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Commerce Copilot</title><link rel="stylesheet" href="/style.css"></head>
+<body>
+<aside>
+  <a class="brand" href="/" aria-label="Commerce Copilot home"><span class="logo">c<span>o</span></span><span>commerce<br><strong>copilot.</strong></span></a>
+  <div class="aside-intro"><span class="eyebrow">YOUR SHOPPING SPACE</span><h2>A little direction.<br>A better decision.</h2><p>Tell us what matters. Find the tech that fits.</p></div>
+  <section class="filters"><div class="section-label">Your preferences <span>01</span></div>
+    <label for="category">Product category</label><select id="category"><option value="all">All electronics</option></select>
+    <label for="budget">Maximum budget <span>INR</span></label><div class="budget-wrap"><span>₹</span><input id="budget" type="number" min="0" max="1000000" step="500" value="60000"></div>
+    <input id="budget-range" aria-label="Budget slider" type="range" min="0" max="150000" step="500" value="60000"><div class="range-labels"><span>₹0</span><span>₹1,50,000</span></div>
+    <p class="filter-note">Only in-stock products within your budget. Change these controls to update exact filters.</p>
+  </section>
+  <button id="clear" class="clear">＋ Start a new conversation</button>
+  <div class="aside-bottom"><span class="status-dot"></span> Powered by Gemini<p>Portfolio demo · Sample catalog<br>Prices are illustrative, not live offers.</p></div>
+</aside>
+<main>
+  <header><span>DISCOVER / COMPARE / DECIDE</span><span class="badge">YOUR PERSONAL TECH GUIDE</span></header>
+  <section class="hero"><div class="eyebrow"><span class="spark">✳</span> LESS SCROLLING. MORE CERTAINTY.</div><h1>Find your next<br><em>great fit.</em></h1><p>A laptop for your next chapter. Headphones for your daily rhythm.<br>Start with what you need. We’ll help with the rest.</p>
+  <div class="suggestions"><button data-query="I need a lightweight laptop for college and coding" data-category="laptop">↗ A laptop for college</button><button data-query="Comfortable headphones for calls and music" data-category="headphones">↗ My everyday headphones</button><button data-query="A smartphone for photography and daily use" data-category="smartphone">↗ A better everyday phone</button></div></section>
+  <section id="conversation" aria-label="Shopping conversation" aria-live="polite"></section>
+  <section class="catalog-section"><div class="catalog-heading"><div><span class="eyebrow" id="catalog-label">A FEW PLACES TO START</span><h2 id="catalog-title">Explore the catalog</h2></div><span id="count"></span></div><div id="products" class="product-grid"></div><p id="catalog-error" role="alert"></p></section>
+  <div class="composer-wrap"><form id="chat-form"><label class="sr-only" for="question">Ask your shopping question</label><textarea id="question" rows="1" maxlength="2000" placeholder="What are you looking for?" required></textarea><button id="send" type="submit" aria-label="Send question">↑</button></form><div class="composer-footer"><span id="status" role="status">Ask naturally. Follow-up questions welcome.</span><span>Grounded in our product catalog</span></div><p id="error" role="alert"></p></div>
+</main><script src="/app.js"></script></body></html>
