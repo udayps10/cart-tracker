@@ -10,11 +10,7 @@ A shopping cart tracking application that helps users organize products, manage 
 - View the total cost of all items.
 - Keep track of shopping needs in one place.
 
-## Tech Stack
 
-- **Frontend:** [Add your frontend framework]
-- **Backend:** [Add your backend technology, if applicable]
-- **Database:** [Add your database, if applicable]
 
 ## Getting Started
 
@@ -52,7 +48,3 @@ Install the tools required by your project's tech stack.
 ## Contributing
 
 Contributions are welcome! Open an issue to discuss a change or submit a pull request.
-
-## License
-
-[Add your project's license]
